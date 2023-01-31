@@ -1,4 +1,4 @@
 
 int fun1() {
-  return 20;
+  return 30; // branch2
 }
